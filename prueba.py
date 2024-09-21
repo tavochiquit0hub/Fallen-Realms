@@ -124,3 +124,4 @@ class Juego(tk.Tk):
 if __name__ == "__main__":
     juego = Juego()
     juego.mainloop()
+dawdaw
